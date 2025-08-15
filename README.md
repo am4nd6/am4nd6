@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebd870a0-eecd-4947-b3d5-af2fbacd4593" width="40"> 
-  Seja bem-vindo(a) ao meu perfil do GitHub! 
+  <img width="500" height="500" alt="baixados__5_-removebg-preview" src="https://github.com/user-attachments/assets/1fb95564-72c7-45cd-8e41-c290525ad21b" />
 </p>
+
 
 
 <h1 align="center">✨ Hello Word! eu sou a Amanda! ✨</h1>
