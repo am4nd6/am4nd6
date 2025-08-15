@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img width="400" height="480" alt="3D_laptop_and_charts_illustration-removebg-preview" src="https://github.com/user-attachments/assets/af005748-fecd-470e-8bbc-5f661f45de4c" />
+  <img width="400" height="480" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
 </div>
 
 <br>
@@ -76,6 +76,7 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 
 <br>
 <br>
+<br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly" />
@@ -113,10 +114,10 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 <div align="center">
   <samp>
     <b>
-      <h3>Contact me:</h3>
+      <h2>Contact me:</h2>
     </b>
   </samp>
-  
+
   <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F5A9E1)](mailto:kamillymedino2@gmail.com)
