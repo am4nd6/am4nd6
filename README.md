@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F8C8DC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5A9E1"/>
 
 <p align="center">
   <img width="300" height="400" alt="baixados__6_-removebg-preview" src="https://github.com/user-attachments/assets/d0820f7b-bf29-4b3a-ae4e-6dffd227363b" />
@@ -20,6 +20,7 @@
 <br>
 
 <details align="center">  
+  
   <summary>
       <samp>
         <b>MORE INFO</b>
@@ -63,6 +64,11 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=am4nd6&show_icons=true&count_private=true&rank_icon=github&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1&font=Iosevka"
   />
+  
+  <br>
+  <br>
+  <br>
+  
   <img
     height=165
     align="center"
