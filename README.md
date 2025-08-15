@@ -129,3 +129,11 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5A9E1&height=100&section=footer"/>
+
+<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
