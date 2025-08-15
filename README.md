@@ -229,7 +229,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5A9E1&section=header"/>
 
 <br>
 
