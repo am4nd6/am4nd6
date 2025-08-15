@@ -352,6 +352,8 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
         <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
       </samp>
   </p>
+
+  ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 </div>
 
 <br>
