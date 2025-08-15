@@ -127,10 +127,7 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](https://www.linkedin.com/in/am4nd6)
 
 </div>
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5A9E1&height=100&section=footer"/>
+<br>
 
 <div align="center">
 <picture align="center">
@@ -139,3 +136,7 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5A9E1&height=100&section=footer"/>
