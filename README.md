@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
+  <img width="400" height="480" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
 </div>
 
 <br>
@@ -121,7 +121,7 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
   <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F5A9E1)](mailto:amandamendes2aa4@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F5A9E1)](https://www.instagram.com/am4nd6/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F5A9E1)](https://www.instagram.com/am4nd6/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](www.linkedin.com/in/amanda-m-s-608192289)
 
 </div>
