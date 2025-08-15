@@ -31,7 +31,7 @@
 
 **`FullStack Developer`**
 
-Hi! I'm <b>Amanda Mendes da Silva</b>, 20 years old, from Maranhão, Brazil. I completed high school at <b>IFMA Campus Monte Castelo</b>, with a <b>technical course in Computer Science.<br>
+Hi! I'm <b>Amanda Mendes da Silva</b>, 20 years old, from Maranhão, Brazil. I completed high school at <b>IFMA – Monte Castelo Campus</b>, where I also completed a <b>technical course in Information Technology.</b>
 Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am passionate about technology and aim to grow professionally to help people using science and innovation.
 
 <br> 
