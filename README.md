@@ -26,9 +26,17 @@
 
 ## 📊 Minhas estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=am4nd6&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nd6&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165"/>
 </p>
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=am4nd6&show_icons=true&theme=radical&layout=compact&hide=jupyter%20notebook,c%23" />
+</div>
+ 
+ &nbsp;
+ &nbsp;
 
 ---
 
