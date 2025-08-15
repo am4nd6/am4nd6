@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img width="400" height="480" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
+  <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
 </div>
 
 <br>
