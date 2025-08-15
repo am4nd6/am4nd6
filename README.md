@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F8C8DC"/>
+
 <p align="center">
   <img width="300" height="400" alt="baixados__6_-removebg-preview" src="https://github.com/user-attachments/assets/d0820f7b-bf29-4b3a-ae4e-6dffd227363b" />
   <samp>
