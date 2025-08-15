@@ -120,9 +120,9 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F5A9E1)](mailto:amandamendes2aa4@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F5A9E1)](emailto:amandamendes2aa4@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F5A9E1)](https://www.instagram.com/am4nd6/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](www.linkedin.com/in/amanda-m-s-608192289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](www.linkedin.com/in/am4nd6)
 
 </div>
 
