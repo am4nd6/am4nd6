@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5A9E1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5A9E1" style="width:100%; height:auto;" />
 
 <p align="center">
-  <img width="300" height="400" alt="baixados__6_-removebg-preview" src="https://github.com/user-attachments/assets/d0820f7b-bf29-4b3a-ae4e-6dffd227363b" />
+  <img width="300" style="height:auto;" alt="profile" src="https://github.com/user-attachments/assets/d0820f7b-bf29-4b3a-ae4e-6dffd227363b" />
+  
   <samp>
     <h1 align="center">🌸 Hello World! 🌍🌷</h1>
     <p align="center">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="height:auto;"> 
       Welcome! Thanks for visiting my GitHub profile! 
     </p>
   </samp>
@@ -15,8 +15,7 @@
 <br>
 
 <div align="center">
-  <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
-  <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
+  <img width="500" style="height:auto;" alt="main-image" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
 </div>
 
 <br>
@@ -29,24 +28,20 @@
       </samp>
   </summary>
 
-  <br>
-  <br>
+  <br><br>
 
 # 👩🏻‍💻 Amanda M. S.
 
 **`FullStack Developer`**
 
 Hi! I'm <b>Amanda Mendes da Silva</b>, 20 years old, from Maranhão, Brazil. I completed high school at <b>IFMA – Monte Castelo Campus</b>, where I also completed a <b>technical course in Information Technology.</b>
-Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am passionate about technology and aim to grow professionally to help people using science and innovation.
+Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am passionate about technology and aim to grow professionally to help people using science and innovation.
 
-<br> 
-<br>
+<br><br>
 
 <h3 align="left">💗 About Me:</h3>
 
-<br>
-
-<ul align="left">
+<ul>
   <li>🎓 Student of <b>Science and Technology</b> at UFMA;</li>
   <li>💡 Passionate about <b>robotics, Arduino, and programming;</b></li>
   <li>🖥️ Exploring new <b>tech projects and coding challenges;</b></li>
@@ -57,47 +52,27 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 
 <h3 align="left">📊 Statistics:</h3>
 
- <br>
+<div align="center">
+  <img height="165" style="height:auto;" src="https://github-readme-stats.vercel.app/api/?username=am4nd6&show_icons=true&count_private=true&rank_icon=github&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1&font=Iosevka"/>
+  
+  <br><br><br>
+  
+  <img height="165" style="height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nd6&layout=compact&font=Iosevka&langs_count=16&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1"/>
+</div>
+
+<br><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=2077" style="width:100%; height:auto;" />
+
+<br><br><br>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=am4nd6&show_icons=true&count_private=true&rank_icon=github&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1&font=Iosevka"
-  />
-  
-  <br>
-  <br>
-  <br>
-  
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nd6&layout=compact&font=Iosevka&langs_count=16&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1"
-  />
+  <img width="55%" style="height:auto;" src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly" />
 </div>
 
-<br>
-<br>
-
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=2077" />
-
-<br>
-<br>
-<br>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly" />
-</div>
-
-<br>
-<br>
+<br><br>
 
 <h3 align="left">🛠 Languages & Technologies:</h3>
-
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -115,17 +90,11 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-  
-</div>
-
 <br>
 
 <div align="center">
   <samp>
-    <b>
-      <h2>Contact me:</h2>
-    </b>
+    <b><h2>Contact me:</h2></b>
   </samp>
 
   <br>
@@ -135,16 +104,17 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b> . I am pas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](https://www.linkedin.com/in/am4nd6)
 
 </div>
+
 <br>
 
 <div align="center">
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake.svg" style="width:100%; height:auto;">
 </picture>
 </div>
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5A9E1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5A9E1&height=100&section=footer" style="width:100%; height:auto;" />
