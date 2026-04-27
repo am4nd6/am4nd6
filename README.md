@@ -6,6 +6,7 @@
     <h1 align="center">🌸 Hello World! 🌍🌷</h1>
     <p align="center">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
       Welcome! Thanks for visiting my GitHub profile! 
     </p>
   </samp>
@@ -14,6 +15,7 @@
 <br>
 
 <div align="center">
+  <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
   <img width="500" height="500" alt="ChatGPT Image 15 de ago  de 2025, 07_01_14" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
 </div>
 
