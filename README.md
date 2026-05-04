@@ -53,11 +53,11 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am pass
 <h3 align="left">📊 Statistics:</h3>
 
 <div align="center">
-  <img height="165" style="height:auto;" src="https://github-readme-stats.vercel.app/api/?username=am4nd6&show_icons=true&count_private=true&rank_icon=github&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1&font=Iosevka"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=am4nd6&show_icons=true&count_private=true&theme=radical"/>
   
   <br><br><br>
   
-  <img height="165" style="height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nd6&layout=compact&font=Iosevka&langs_count=16&theme=default&bg_color=000000&title_color=F5A9E1&text_color=F5A9E1&icon_color=F5A9E1"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=am4nd6&layout=compact&theme=radical"/>
 </div>
 
 <br><br>
