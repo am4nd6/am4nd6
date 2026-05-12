@@ -56,15 +56,13 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am pass
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="CAEMA" src="https://www.caema.ma.gov.br/wp-content/uploads/2021/12/cropped-favicon-192x192.png"/>](https://www.caema.ma.gov.br/)
-
+[<img align="left" height="94px" width="94px" alt="CAEMA" src="https://tse1.mm.bing.net/th/id/OIP.cZ3rCrLp7t8Ijlphkp5lnAAAAA?w=400&h=400&rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.caema.ma.gov.br/)
 
 **Full Stack Developer** \
-[**CAEMA – Companhia de Saneamento Ambiental do Maranhão**](https://www.caema.ma.gov.br/) • Trainee \
+[**CAEMA – Companhia de Saneamento Ambiental do Maranhão**](https://www.caema.ma.gov.br/) • Estágio \
 Linguagens & Tecnologias: `TypeScript`, `Next.js`, `React`, `TailwindCSS`, `Node.js`, `PostgreSQL`, `Prisma`, `Docker`, `n8n` \
 Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automação de Processos
-
-<br clear="left"/>
+<br/>
 
 </div>
 
