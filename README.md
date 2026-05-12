@@ -55,16 +55,12 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am pass
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=am4nd6&show_icons=true&count_private=true&theme=radical"/>
   
-  <br><br><br>
+  <br><br>
   
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=am4nd6&layout=compact&theme=radical"/>
 </div>
 
 <br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=2077" style="width:100%; height:auto;" />
-
-<br><br><br>
 
 <div align="center">
   <img width="55%" style="height:auto;" src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly" />
