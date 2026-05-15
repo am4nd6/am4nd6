@@ -4,7 +4,7 @@
   <img width="300" style="height:auto;" alt="profile" src="https://github.com/user-attachments/assets/d0820f7b-bf29-4b3a-ae4e-6dffd227363b" />
   
   <samp>
-    <h1 align="center">🌸 Hello World! 🌍🌷</h1>
+    <h1 align="center">✦ Hello World! ✦</h1>
     <p align="center">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="height:auto;"> 
       Welcome! Thanks for visiting my GitHub profile! 
@@ -30,7 +30,7 @@
 
   <br><br>
 
-# 👩🏻‍💻 Amanda M. S.
+# ✿ Amanda M. S. 
 
 **`FullStack Developer`**
 
@@ -41,12 +41,12 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am pass
 
 <div align="center">
 
-## 💗 About Me:
+## ☁ About Me:
 
-🎓 Student of <b>Science and Technology</b> at UFMA;<br>
-💡 Passionate about <b>robotics, Arduino, and programming;</b><br>
-🖥️ Exploring new <b>tech projects and coding challenges;</b><br>
-☕ Coffee lover and always learning something new.
+➥ Student of <b>Science and Technology</b> at UFMA;<br>
+➥ Passionate about <b>robotics, Arduino, and programming;</b><br>
+➥ Exploring new <b>tech projects and coding challenges;</b><br>
+➥ Coffee lover and always learning something new.
 
 <br>
 </div>
@@ -54,7 +54,7 @@ Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am pass
 
 <div align="center">
 
-## 💼 Experiência de trabalho
+## ☁ Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente
 </div>
@@ -78,7 +78,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <div align="center">
 
-## 📊 Statistics
+## ☁ Statistics
 
 <br>
 
@@ -121,13 +121,13 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <div align="center">
 
-## 🛠 Languages & Technologies
+## ☁ Languages & Technologies
 
 </div>
 
 <br>
 
-<h3 align="left">📌 Languages</h3>
+<h3 align="left">✦ Languages</h3>
 <br>
 
 <p align="center">
@@ -148,7 +148,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <br>
 
-<h3 align="left">⚡ Frontend</h3>
+<h3 align="left">✦ Frontend</h3>
 <br>
 
 <p align="center">
@@ -161,7 +161,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <br>
 
-<h3 align="left">🗄️ Backend & Database</h3>
+<h3 align="left">✦ Backend & Database</h3>
 <br>
 
 <p align="center">
@@ -177,7 +177,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <br>
 
-<h3 align="left">🤖 AI & Machine Learning</h3>
+<h3 align="left">✦ AI & Machine Learning</h3>
 <br>
 
 <p align="center">
@@ -196,7 +196,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <br>
 
-<h3 align="left">☁️ DevOps & Cloud</h3>
+<h3 align="left">✦ DevOps & Cloud</h3>
 <br>
 
 <p align="center">
@@ -212,7 +212,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <br>
 
-<h3 align="left">🔧 Tools & Others</h3>
+<h3 align="left">✦ Tools & Others</h3>
 <br>
 
 <p align="center">
@@ -229,7 +229,7 @@ Projetos em destaque: Sistema de Pesquisa NPS, Plataforma Institucional, Automa�
 
 <div align="center">
 
-## Contact me
+## ☁ Contact me
 
 </div>
 
