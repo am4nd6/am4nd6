@@ -103,10 +103,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <br><br>
 
-<img 
-  width="100%" 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=radical"
-/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=radical&cache_seconds=86400)
 
 <br><br>
 
