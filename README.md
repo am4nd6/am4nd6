@@ -232,9 +232,17 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F5A9E1)](mailto:amandamendes2aa4@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F5A9E1)](https://www.instagram.com/am4nd6/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=F5A9E1)](https://www.linkedin.com/in/am4nd6)
+<div align="left">
+  <a href="mailto:amandamendes2aa4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/am4nd6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/am4nd6" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+</div>
 
 <br>
 
