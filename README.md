@@ -138,7 +138,6 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" title="Go" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" title="Rust" style="margin-right: 8px;" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="40" alt="SQL" title="SQL" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" style="margin-right: 8px;" />
 </p>
@@ -186,8 +185,6 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude" title="Claude" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" title="GitHub Copilot" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" style="margin-right: 8px;" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EA%3C/text%3E%3C/svg%3E" height="40" alt="AI Engineering" title="AI Engineering" style="margin-right: 8px;" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EL%3C/text%3E%3C/svg%3E" height="40" alt="Lovable" title="Lovable" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/opencode" height="40" alt="OpenCode" title="OpenCode" style="margin-right: 8px;" />
 </p>
 
@@ -218,8 +215,6 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/scratch" height="40" alt="Scratch" title="Scratch" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n" title="n8n" style="margin-right: 8px;" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E" height="40" alt="Typebot" title="Typebot" style="margin-right: 8px;" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EE%3C/text%3E%3C/svg%3E" height="40" alt="Evolution API" title="Evolution API" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -240,7 +235,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/am4nd6" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/white" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
 
