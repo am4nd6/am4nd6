@@ -128,19 +128,19 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" title="Go" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" title="Rust" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="40" alt="SQL" title="SQL" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -149,11 +149,11 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="40" alt="Next.js" title="Next.js" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="40" alt="TailwindCSS" title="TailwindCSS" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/framer" height="40" alt="Framer Motion" title="Framer Motion" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/shadcnui" height="40" alt="shadcn/ui" title="shadcn/ui" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -162,14 +162,14 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/fastapi" height="40" alt="FastAPI" title="FastAPI" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/fastify" height="40" alt="Fastify" title="Fastify" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/prisma" height="40" alt="Prisma" title="Prisma" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase" title="Supabase" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -178,17 +178,17 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engineering-F5A9E1?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable-F5A9E1?style=for-the-badge&logo=lovable&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-F5A9E1?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="HuggingFace" title="HuggingFace" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" title="OpenAI" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Anthropic" title="Anthropic" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude" title="Claude" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" title="GitHub Copilot" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" style="margin-right: 8px;" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EA%3C/text%3E%3C/svg%3E" height="40" alt="AI Engineering" title="AI Engineering" style="margin-right: 8px;" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EL%3C/text%3E%3C/svg%3E" height="40" alt="Lovable" title="Lovable" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/opencode" height="40" alt="OpenCode" title="OpenCode" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -197,14 +197,14 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/vercel" height="40" alt="Vercel" title="Vercel" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/render" height="40" alt="Render" title="Render" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" title="Streamlit" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -213,13 +213,13 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typebot-6B21A8?style=for-the-badge&logo=typebot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Evolution_API-00BFA5?style=for-the-badge&logo=evolution&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/scratch" height="40" alt="Scratch" title="Scratch" style="margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n" title="n8n" style="margin-right: 8px;" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E" height="40" alt="Typebot" title="Typebot" style="margin-right: 8px;" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23F5A9E1'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-size='22' fill='%23FFF' font-family='Arial,sans-serif' font-weight='bold'%3EE%3C/text%3E%3C/svg%3E" height="40" alt="Evolution API" title="Evolution API" style="margin-right: 8px;" />
 </p>
 
 <br>
@@ -240,7 +240,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/am4nd6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/white" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
 
