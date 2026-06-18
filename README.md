@@ -238,13 +238,13 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <br>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/github-contribution-grid-snake.svg" style="width:100%; height:auto;">
-</picture>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am4nd6/am4nd6/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 </details>
 
