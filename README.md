@@ -180,7 +180,6 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="HuggingFace" title="HuggingFace" style="margin-right: 8px;" />
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" title="OpenAI" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Anthropic" title="Anthropic" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude" title="Claude" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" title="GitHub Copilot" style="margin-right: 8px;" />
