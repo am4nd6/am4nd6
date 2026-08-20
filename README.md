@@ -30,6 +30,8 @@
 
   <br><br>
 
+<div align="center">
+
 # ✿ Amanda M. S. 
 
 **`FullStack Developer`**
@@ -76,6 +78,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <br>
 
+<!-- Statistics section hidden temporarily.
 <div align="center">
 
 ## ☁ Statistics
@@ -91,14 +94,14 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <img 
   height="165" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=am4nd6&show_icons=true&count_private=true&title_color=F5A9E1&icon_color=F5A9E1&text_color=fff&bg_color=0d0d0d&border_color=F5A9E1"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=am4nd6&theme=radical"
 />
 
 <br><br>
 
 <img 
   height="165" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=am4nd6&layout=compact&title_color=F5A9E1&text_color=fff&bg_color=0d0d0d&border_color=F5A9E1"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=am4nd6&theme=radical"
 />
 
 <br><br>
@@ -109,18 +112,15 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <img 
   width="55%" 
-  src="https://github-readme-streak-stats.herokuapp.com?user=am4nd6&theme=radical&mode=weekly&fire=F5A9E1&sideLabels=F5A9E1&sideNums=F5A9E1&currStreakNum=F5A9E1&currStreakLabel=F5A9E1&stroke=F5A9E1&border=F5A9E1&ring=F5A9E1"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=am4nd6&theme=radical"
 />
 
 <br><br>
 
 </div>
-
-<div align="center">
+-->
 
 ## ☁ Languages & Technologies
-
-</div>
 
 <br>
 
@@ -247,6 +247,8 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/am4nd6/am4nd6/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+</div>
 
 </details>
 
