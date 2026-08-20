@@ -230,7 +230,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <a href="mailto:amandamendes2aa4@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.instagram.com/am4nd6/" target="_blank">
+  <a href="https://www.instagram.com/am4nd6.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/am4nd6" target="_blank">
