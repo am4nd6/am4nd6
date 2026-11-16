@@ -20,6 +20,18 @@
 
 <br>
 
+<div align="center">
+
+## ✦ Explore My Portfolio ✦
+
+<a href="https://portfolio-amanda-ms.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/♡%20Click%20here%20to%20visit%20my%20portfolio%20♡-F5A9E1?style=for-the-badge&labelColor=E8A8C8&logoColor=white" alt="♡ Click here to visit my portfolio ♡" />
+</a>
+
+<p>Discover my projects, skills, and creative work.</p>
+
+</div>
+
 <details align="center">  
   
   <summary>
@@ -36,7 +48,7 @@
 
 **`FullStack Developer`**
 
-Hi! I'm <b>Amanda Mendes da Silva</b>, 20 years old, from Maranhão, Brazil. I completed high school at <b>IFMA – Monte Castelo Campus</b>, where I also completed a <b>technical course in Information Technology.</b>
+Hi! I'm <b>Amanda Mendes da Silva</b>, 22 years old, from Maranhão, Brazil. I completed high school at <b>IFMA – Monte Castelo Campus</b>, where I also completed a <b>technical course in Information Technology.</b>
 Currently, I am studying <b>Science and Technology</b> at <b>UFMA</b>. I am passionate about technology and aim to grow professionally to help people using science and innovation.
 
 <br><br>
@@ -233,7 +245,7 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
   <a href="https://www.instagram.com/am4nd6.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.linkedin.com/in/am4nd6" target="_blank">
+  <a href="https://www.linkedin.com/in/am4nd6.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
