@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="220" viewBox="0 0 495 220">
+<rect width="100%" height="100%" rx="18" fill="#24212B"/>
+<text x="24" y="38" fill="#F5A9E1" font-family="Arial" font-size="20" font-weight="bold">Most Used Languages</text>
+<text x="28" y="78" fill="#FCE7F3" font-family="Arial" font-size="15">SCSS</text>
+<text x="465" y="78" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">222158</text>
+<text x="28" y="103" fill="#FCE7F3" font-family="Arial" font-size="15">JavaScript</text>
+<text x="465" y="103" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">91102</text>
+<text x="28" y="128" fill="#FCE7F3" font-family="Arial" font-size="15">HTML</text>
+<text x="465" y="128" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">77378</text>
+<text x="28" y="153" fill="#FCE7F3" font-family="Arial" font-size="15">Python</text>
+<text x="465" y="153" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">24067</text>
+<text x="28" y="178" fill="#FCE7F3" font-family="Arial" font-size="15">C</text>
+<text x="465" y="178" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">23791</text>
+<text x="28" y="203" fill="#FCE7F3" font-family="Arial" font-size="15">C++</text>
+<text x="465" y="203" text-anchor="end" fill="#F5A9E1" font-family="Arial" font-size="15" font-weight="bold">14903</text>
+</svg>
