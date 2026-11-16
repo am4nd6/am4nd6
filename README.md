@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img width="500" style="height:auto;" alt="main-image" src="https://github.com/user-attachments/assets/5b4bb3c8-e4b7-4b02-a845-81ed6857fdee" />
+  <img width="500" style="height:auto;" alt="Animated pink dotted robot" src="assets/pink-dotted-robot.gif" />
 </div>
 
 <br>
