@@ -90,29 +90,47 @@ Featured Projects: NPS Survey System, Institutional Platform, Process Automation
 
 <br>
 
+<!-- Statistics section hidden temporarily.
 <div align="center">
 
 ## ☁ Statistics
 
 <br>
 
-<img width="100%" src="assets/github-stats.svg" alt="GitHub statistics" />
+<img 
+  width="100%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=am4nd6&bg_color=0d1117&color=F78FCB&line=F78FCB&point=FFFFFF&hide_border=true"
+/>
 
 <br><br>
 
-<img height="220" src="assets/github-stats.svg" alt="GitHub statistics" />
+<img 
+  height="165" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=am4nd6&theme=radical"
+/>
 
 <br><br>
 
-<img height="220" src="assets/github-languages.svg" alt="Most used languages" />
+<img 
+  height="165" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=am4nd6&theme=radical"
+/>
 
 <br><br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=am4nd6&theme=radical&cache_seconds=86400)
+
 <br><br>
+
+<img 
+  width="55%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=am4nd6&theme=radical"
+/>
 
 <br><br>
 
 </div>
+-->
 
 ## ☁ Languages & Technologies
 
